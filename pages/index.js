@@ -8,7 +8,8 @@ export default function Home() {
       <Head>
         <title>Inventory Management system</title>
       </Head>
-      <h1>Inventory Management System</h1>
+      <h1>This is Home Page</h1>
+      <h6>IMS</h6>
     </div>
-  )
+  );
 }
