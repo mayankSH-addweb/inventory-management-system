@@ -1,0 +1,12 @@
+{
+    "supplier" : [
+        {
+            "name": "Mayank"
+        }
+    ],
+    "inventory" : [
+        {
+            "name": "Vishal"
+        }
+    ]
+}
