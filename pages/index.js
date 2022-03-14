@@ -6,9 +6,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Inventory Management system</title>
+        <title>IMS</title>
       </Head>
-      <h1>Inventory Management System</h1>
+      <h1>This is Inventory Management System's Home Page</h1>
     </div>
-  )
+  );
 }
