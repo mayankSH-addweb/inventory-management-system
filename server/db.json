@@ -37,5 +37,30 @@
       "accNumber": 664410210457
     }
   ],
-  "inventory": []
+  "inventory": [
+    {
+      "name": "First Section",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptas hic assumenda!"
+    },
+    {
+      "name": "Second Section",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptas hic assumenda!"
+    },
+    {
+      "name": "Third Section",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptas hic assumenda!"
+    },
+    {
+      "name": "Fourth Section",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptas hic assumenda!"
+    },
+    {
+      "name": "Fifth Section",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptas hic assumenda!"
+    },
+    {
+      "name": "Sixth Section",
+      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptas hic assumenda!"
+    }
+  ]
 }
