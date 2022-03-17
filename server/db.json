@@ -1,12 +1,41 @@
 {
-    "supplier" : [
-        {
-            "name": "Mayank"
-        }
-    ],
-    "inventory" : [
-        {
-            "name": "Vishal"
-        }
-    ]
+  "supplier": [
+    {
+      "id": 1,
+      "name": "Vishal",
+      "phone1": 1023654789,
+      "phone2": 2013654789,
+      "email": "dummy123@gmail.com",
+      "nameInCheque": "Mayank Sharma",
+      "address": "Alwar",
+      "bank": "Bank of India",
+      "branch": "mansarovar",
+      "accNumber": 664410210457
+    },
+    {
+      "id": 2,
+      "name": "Mayank",
+      "phone1": 1023654789,
+      "phone2": 2013654789,
+      "email": "dummy123@gmail.com",
+      "nameInCheque": "Mayank Sharma",
+      "address": "Jaipur",
+      "bank": "Bank of India",
+      "branch": "mansarovar",
+      "accNumber": 664410210457
+    },
+    {
+      "id": 3,
+      "name": "Lokesh",
+      "phone1": 1023654789,
+      "phone2": 2013654789,
+      "email": "dummy123@gmail.com",
+      "nameInCheque": "Mayank Sharma",
+      "address": "Kota",
+      "bank": "Bank of India",
+      "branch": "mansarovar",
+      "accNumber": 664410210457
+    }
+  ],
+  "inventory": []
 }
