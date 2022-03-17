@@ -49,7 +49,7 @@ export const columns = [
   {
     field: "editAction",
     headerName: "Edit",
-    width: 100,
+    width: 90,
     renderCell: (param) => (
       <Button variant="contained" color="success">
         Edit
@@ -59,7 +59,7 @@ export const columns = [
   {
     field: "deleteAction",
     headerName: "Delete",
-    width: 120,
+    width: 90,
     renderCell: (param) => (
       <Button variant="contained" color="error">
         Delete
